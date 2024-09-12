@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs React**
 
-- 👨‍💻 All of my projects are available at [realizer5.github.io](realizer5.github.io)
+- 👨‍💻 All of my projects are available at [Here](https://realizer5.github.io/)
 
 - 📫 How to reach me **ipreet35232@gmail.com**
 
