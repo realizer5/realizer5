@@ -2,7 +2,7 @@
 trying to make awesome websites and improve my developer workflow
 
 Fun Facts
-* I’m currently learning **React, neovim**
+* I’m currently learning **Rust, Backend**
 * I’m currently working on [My own Portfolio](https://github.com/realizer5/realizer5.github.io)
 * All of my projects are available at [My Portfolio](https://realizer5.github.io)
 * **I USE ARCH BTW**
