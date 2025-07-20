@@ -2,8 +2,8 @@
 trying to make awesome websites and improve my developer workflow
 
 Fun Facts
-* I’m currently learning **Rust, Backend**
-* I’m currently working on a bike services website [paddlebro](https://github.com/realizer5/paddlebro)
+* I’m currently learning **Backend**
+* I’m currently working on a bike services website [realtube](https://github.com/realizer5/realtube)
 * All of my projects are available at [My Portfolio](https://realizer5.netlify.app)
 * **I USE ARCH BTW**
 
