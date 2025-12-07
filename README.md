@@ -2,8 +2,8 @@
 trying to make awesome websites and improve my developer workflow
 
 Fun Facts
-* I’m currently learning **system administartion**
-* I’m currently working on frontend for youtube like website [realtube](https://github.com/realizer5/realtube-frontend)
+* I’m currently learning **devOps**
+* I’m currently working on stock management website [stocktaking](https://github.com/realizer5/stocktaking)
 * All of my projects are available at [My Portfolio](https://realizer5.netlify.app)
 * **I USE ARCH BTW**
 <hr>
